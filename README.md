@@ -9,4 +9,4 @@ Advanced Machine Learning Project
 
 下载Celeba dataset 放入data->celeba->img_align_celeba中
 
-#### Sample：
+#### Result Sample：
