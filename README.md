@@ -16,3 +16,4 @@ Advanced Machine Learning Project
 
 #### Result Samlpe and Loss：
 ![image](https://github.com/bigbro0991/Celebrity-Faces-Generation/blob/master/data/celeba/img_align_celeba/image24.png)
+![image](https://github.com/bigbro0991/Celebrity-Faces-Generation/blob/master/data/celeba/img_align_celeba/image22.png)
