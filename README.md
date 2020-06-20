@@ -6,8 +6,9 @@ Advanced Machine Learning Project
 -----基于DCGAN的人脸生成训练
 
 #### Note：
-
 下载Celeba dataset 放入data->celeba->img_align_celeba中
+项目详情请参考report.pdf 和 presentation.pptx
+
 #### How GAN works：
 ![image](https://github.com/bigbro0991/Celebrity-Faces-Generation/blob/master/data/celeba/img_align_celeba/image8.gif)
 
