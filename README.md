@@ -8,5 +8,11 @@ Advanced Machine Learning Project
 #### Note：
 
 下载Celeba dataset 放入data->celeba->img_align_celeba中
+#### How GAN works：
+![image](https://github.com/bigbro0991/Celebrity-Faces-Generation/blob/master/data/celeba/img_align_celeba/image8.gif)
 
-#### Result Sample：
+#### Result Sample process：
+![image](https://github.com/bigbro0991/Celebrity-Faces-Generation/blob/master/data/celeba/img_align_celeba/image14.gif)
+
+#### Result Samlpe and Loss：
+![image](https://github.com/bigbro0991/Celebrity-Faces-Generation/blob/master/data/celeba/img_align_celeba/image24.png)
