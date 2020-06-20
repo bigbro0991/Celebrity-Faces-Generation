@@ -7,6 +7,7 @@ Advanced Machine Learning Project
 
 #### Note：
 下载Celeba dataset 放入data->celeba->img_align_celeba中
+
 项目详情请参考report.pdf 和 presentation.pptx
 
 #### How GAN works：
