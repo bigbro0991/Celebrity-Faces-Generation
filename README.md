@@ -8,7 +8,7 @@ Advanced Machine Learning Project
 #### Note：
 下载Celeba dataset 放入data->celeba->img_align_celeba中
 
-项目详情请参考report.pdf 和 presentation.pptx
+项目详情请参考[report.pdf](https://github.com/bigbro0991/Celebrity-Faces-Generation/blob/master/report.pdf) 和 [presentation.pptx](https://github.com/bigbro0991/Celebrity-Faces-Generation/blob/master/Presentation.pdf)
 
 #### How GAN works：
 ![image](https://github.com/bigbro0991/Celebrity-Faces-Generation/blob/master/data/celeba/img_align_celeba/image8.gif)
